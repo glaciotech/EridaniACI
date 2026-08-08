@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>EridaniACI</title>
+        <item>
+            <title>3.1.0</title>
+            <pubDate>Fri, 07 Aug 2026 16:48:25 -0700</pubDate>
+            <sparkle:version>82</sparkle:version>
+            <sparkle:shortVersionString>3.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/glaciotech/EridaniACI/releases/download/v3.1.0/EridaniACI-3.1.0.dmg" length="357696339" type="application/octet-stream" sparkle:edSignature="eYeQ5uwZk/mmoNQsGiAYqSBMzGrzseUG81fxwZlHnCIqdA3mmZm+Xv6m8S2oWIjhoV0K4cRk4WGtXhOiLm4BCA=="/>
+        </item>
+    </channel>
+</rss>
