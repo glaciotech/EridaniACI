@@ -3,12 +3,23 @@
     <channel>
         <title>EridaniACI</title>
         <item>
+            <title>0.4.1</title>
+            <pubDate>Tue, 13 Oct 2026 13:54:08 -0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/glaciotech/EridaniACI/releases/download/v0.4.1/EridaniACI-0.4.1.dmg" length="537146370" type="application/octet-stream" sparkle:edSignature="Oxqh8mY4E0//pF0Guup1+0SWUqbZquhxDh3m3ehERVcxQbyK05dzvwFOcMOoxr6lMOU0UJltHK3BcqsMiPYQDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/glaciotech/EridaniACI/releases/download/v0.4.1/EridaniACI2-1.delta" sparkle:deltaFrom="1" length="4118026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zKSZnUV9Xxu2/jYiO1eoGWdzLxYdSN/uo3Gt+TNA5ozQzA2Xk38tGpuOZ2ZxTy9ldC30ySquFDrwOG1uk5GnDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Mon, 12 Oct 2026 20:38:58 -0700</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/glaciotech/EridaniACI/releases/download/v0.4.0/EridaniACI-0.4.0.dmg" length="537427262" type="application/octet-stream" sparkle:edSignature="X0RqFjCZrYv/A9O48Man2GiB8HftGUQWOyloiWHJb6bCGnqM0uaqB8z3DGeQWNkZ730t8IS/aPr2b7nPpudEBw=="/>
+            <enclosure url="https://github.com/glaciotech/EridaniACI/releases/download/v0.4.1/EridaniACI-0.4.0.dmg" length="537427262" type="application/octet-stream" sparkle:edSignature="X0RqFjCZrYv/A9O48Man2GiB8HftGUQWOyloiWHJb6bCGnqM0uaqB8z3DGeQWNkZ730t8IS/aPr2b7nPpudEBw=="/>
         </item>
     </channel>
 </rss>
