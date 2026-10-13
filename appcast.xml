@@ -5,6 +5,17 @@
         <item>
             <title>0.4.1</title>
             <pubDate>Tue, 13 Oct 2026 13:54:08 -0700</pubDate>
+            <description><![CDATA[<h3>0.4.1</h3>
+<ul>
+<li>Updated Eridani image assets and fixed zlib issue</li>
+<li>New webview display tool for showing local HTML files</li>
+<li>Improved settings views; added pre-Tahoe warning for web search</li>
+<li>Embedded Lightpanda container support</li>
+<li>xAI API support and OpenCode support; models pulled from API</li>
+<li>Scheduled agents capability</li>
+<li>Support for locally running external MCPs</li>
+<li>Beta feature gates and subscription/update test prep</li>
+</ul>]]></description>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
