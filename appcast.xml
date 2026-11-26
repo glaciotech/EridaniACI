@@ -3,12 +3,36 @@
     <channel>
         <title>EridaniACI</title>
         <item>
-            <title>0.5.0</title>
-            <pubDate>Fri, 30 Oct 2026 15:23:25 -0700</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <title>0.6.1</title>
+            <pubDate>Wed, 25 Nov 2026 20:27:11 -0700</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/glaciotech/EridaniACI/releases/download/v0.5.0/EridaniACI-0.5.0.dmg" length="537791245" type="application/octet-stream" sparkle:edSignature="66LxV4+dJICvDvfQT8EPGpk/sDnriIlpa/58pXO0jy3mSKNcScBaJZSlGqDWN+43IfOpf6MaxTKIaOBRC32mAg=="/>
+            <enclosure url="https://github.com/glaciotech/EridaniACI/releases/download/v0.6.1/EridaniACI-0.6.1.dmg" length="538563704" type="application/octet-stream" sparkle:edSignature="QJbbiRxefr0ZOgdc1rXmEeCGxPc9DuCmiTAEUld+hYY0HVC7IaFbSZED2VYW/OE7t84KT8fpRdLjxiQRdkNrDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/glaciotech/EridaniACI/releases/download/v0.6.1/EridaniACI5-4.delta" sparkle:deltaFrom="4" length="44698" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XcjmOLCCEUZ/XX1qmIU1dkhYKPNKY+Ze8eBMVRsbmd9F8QjQSf7xS2aKhu6Zr52RR5IzLk05ism15n9QkzqUBQ=="/>
+                <enclosure url="https://github.com/glaciotech/EridaniACI/releases/download/v0.6.1/EridaniACI5-2.delta" sparkle:deltaFrom="2" length="12011246" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fsM6oVd7DMxHOaN1r+dvOUNkqBbHnaXBXH/UGoI/+GbSgrau/HjRBC2hearuRCb5XrDds0MHv9/BGWQTkjNeCw=="/>
+                <enclosure url="https://github.com/glaciotech/EridaniACI/releases/download/v0.6.1/EridaniACI5-1.delta" sparkle:deltaFrom="1" length="12008350" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="H1d5YjOGRmFcm+bAjQpnxh9gYHtndGSg9Qxe7z1k725cUuRJnCrjbk0faccCEgowxb41ieINvR8/IBcB7P18Bw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.6.0</title>
+            <pubDate>Wed, 25 Nov 2026 19:19:39 -0700</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/glaciotech/EridaniACI/releases/download/v0.6.1/EridaniACI.dmg" length="538438556" type="application/octet-stream" sparkle:edSignature="rO80CuYX3qcSFdXo1nM2xTe3zvTP2LDzePkBk/7Bi6VP7ALLGGZY+WV06/JgNbjiBI+1v1IOanim+bRmSWNCAw=="/>
+        </item>
+        <item>
+            <title>0.4.1</title>
+            <pubDate>Tue, 13 Oct 2026 13:54:08 -0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/glaciotech/EridaniACI/releases/download/v0.6.1/EridaniACI-0.4.1.dmg" length="537146370" type="application/octet-stream" sparkle:edSignature="Oxqh8mY4E0//pF0Guup1+0SWUqbZquhxDh3m3ehERVcxQbyK05dzvwFOcMOoxr6lMOU0UJltHK3BcqsMiPYQDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/glaciotech/EridaniACI/releases/download/v0.4.1/EridaniACI2-1.delta" sparkle:deltaFrom="1" length="4118026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zKSZnUV9Xxu2/jYiO1eoGWdzLxYdSN/uo3Gt+TNA5ozQzA2Xk38tGpuOZ2ZxTy9ldC30ySquFDrwOG1uk5GnDA=="/>
+            </sparkle:deltas>
         </item>
     </channel>
 </rss>
